@@ -2,16 +2,15 @@ Name: x11-util-macros
 BuildArch: noarch
 Summary: Macro used for X.org development
 Version: 1.1.5
-Release: %mkrel 2
+Release: %mkrel 3
 Group: Development/X11
 License: MIT
-Packager: Gustavo Pichorim Boiko <boiko@mandriva.com>
 URL: http://xorg.freedesktop.org
 Source0: http://xorg.freedesktop.org/releases/individual/util/util-macros-%{version}.tar.bz2
 BuildRoot: %{_tmppath}/%{name}-root
 
 %description
---
+Macros used for X.org development
 
 %prep
 echo %{buildroot}
