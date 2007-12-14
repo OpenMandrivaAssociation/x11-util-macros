@@ -7,7 +7,7 @@ Group: Development/X11
 License: MIT
 ########################################################################
 # git clone git//git.mandriva.com/people/pcpa/xorg/util/macros xorg/util/macros
-# cd xorg/xserver
+# cd xorg/util/macros
 # git-archive --format=tar --prefix=util-macros-1.1.5/ | bzip2 -9 > util-macros-1.1.5.tar.bz2
 ########################################################################
 Source0: util-macros-%{version}.tar.bz2
