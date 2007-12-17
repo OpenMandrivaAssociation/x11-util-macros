@@ -11,7 +11,6 @@ License: MIT
 # git-archive --format=tar --prefix=util-macros-1.1.5/ | bzip2 -9 > util-macros-1.1.5.tar.bz2
 ########################################################################
 Source0: util-macros-%{version}.tar.bz2
-BuildRoot: %{_tmppath}/%{name}-root
 
 ########################################################################
 # git-format-patch master..origin/mandriva+gpl
