@@ -1,7 +1,7 @@
 Name: x11-util-macros
 BuildArch: noarch
 Summary: Macro used for X.org development
-Version: 1.4.2
+Version: 1.5.0
 Release: %mkrel 1
 Group: Development/X11
 License: MIT
