@@ -1,7 +1,7 @@
 Name: x11-util-macros
 BuildArch: noarch
 Summary: Macro used for X.org development
-Version: 1.4.1
+Version: 1.4.2
 Release: %mkrel 1
 Group: Development/X11
 License: MIT
@@ -29,6 +29,6 @@ rm -rf %{buildroot}
 
 %files
 %defattr(-,root,root)
-%{_docdir}/util-macros/INSTALL
+%{_datadir}/util-macros/INSTALL
 %{_datadir}/aclocal/xorg-macros.m4
 %{_datadir}/pkgconfig/xorg-macros.pc
