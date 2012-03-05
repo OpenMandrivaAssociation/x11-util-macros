@@ -1,7 +1,7 @@
 Name: x11-util-macros
 BuildArch: noarch
 Summary: Macro used for X.org development
-Version: 1.16.1
+Version: 1.16.2
 Release: 1
 Group: Development/X11
 License: MIT
@@ -15,7 +15,7 @@ Macros used for X.org development
 %setup -q -n util-macros-%{version}
 
 %build
-%configure2_5x
+%configure
 %make
 
 %install
