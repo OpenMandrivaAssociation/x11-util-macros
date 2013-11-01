@@ -1,2 +1,4 @@
+removed_sources:
+  util-macros-1.17.tar.bz2: c424a09fa6f628e24eff74496acebef13e8093b9
 sources:
-  "util-macros-1.17.tar.bz2": c424a09fa6f628e24eff74496acebef13e8093b9
+  util-macros-1.17.1.tar.bz2: 80db85f0c117260e01c3ab8705cdcc6e38b39d09
