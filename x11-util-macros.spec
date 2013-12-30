@@ -6,6 +6,7 @@ Group:		Development/X11
 License:	MIT
 URL:		http://xorg.freedesktop.org
 Source0:	http://xorg.freedesktop.org/releases/individual/util/util-macros-%{version}.tar.bz2
+Source1:	x11-util-macros.rpmlintrc
 BuildArch:	noarch
 
 %description
