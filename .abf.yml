@@ -1,4 +1,5 @@
 removed_sources:
-  util-macros-1.17.tar.bz2: c424a09fa6f628e24eff74496acebef13e8093b9
-sources:
   util-macros-1.18.0.tar.bz2: c0b04a082e50bb8d56a904648f61a8f3eea63043
+
+sources:
+  util-macros-1.19.0.tar.bz2: 00cfc636694000112924198e6b9e4d72f1601338
