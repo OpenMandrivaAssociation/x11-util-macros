@@ -1,7 +1,7 @@
 Name:		x11-util-macros
 Summary:	Macro used for X.org development
 Version:	1.19.0
-Release:	4
+Release:	5
 Group:		Development/X11
 License:	MIT
 URL:		http://xorg.freedesktop.org
