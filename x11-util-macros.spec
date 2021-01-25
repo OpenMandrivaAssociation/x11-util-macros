@@ -1,7 +1,7 @@
 Name:		x11-util-macros
 Summary:	Macro used for X.org development
-Version:	1.19.2
-Release:	3
+Version:	1.19.3
+Release:	1
 Group:		Development/X11
 License:	MIT
 URL:		http://xorg.freedesktop.org
@@ -13,14 +13,14 @@ BuildArch:	noarch
 Macros used for X.org development.
 
 %prep
-%setup -q -n util-macros-%{version}
+%autosetup -n util-macros-%{version} -p1
 
 %build
 %configure
-%make
+%make_build
 
 %install
-%makeinstall_std
+%make_install
 
 %files
 %{_datadir}/util-macros/INSTALL
