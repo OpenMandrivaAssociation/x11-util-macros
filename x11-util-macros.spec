@@ -1,11 +1,11 @@
 Name:		x11-util-macros
 Summary:	Macro used for X.org development
-Version:	1.19.3
+Version:	1.20.0
 Release:	1
 Group:		Development/X11
 License:	MIT
 URL:		http://xorg.freedesktop.org
-Source0:	http://xorg.freedesktop.org/releases/individual/util/util-macros-%{version}.tar.bz2
+Source0:	http://xorg.freedesktop.org/releases/individual/util/util-macros-%{version}.tar.xz
 Source1:	x11-util-macros.rpmlintrc
 BuildArch:	noarch
 
