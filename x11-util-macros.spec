@@ -4,7 +4,7 @@ Version:	1.20.1
 Release:	1
 Group:		Development/X11
 License:	MIT
-URL:		http://xorg.freedesktop.org
+URL:		https://xorg.freedesktop.org
 Source0:	http://xorg.freedesktop.org/releases/individual/util/util-macros-%{version}.tar.xz
 Source1:	x11-util-macros.rpmlintrc
 BuildArch:	noarch
