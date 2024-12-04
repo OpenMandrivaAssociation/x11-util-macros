@@ -1,6 +1,6 @@
 Name:		x11-util-macros
 Summary:	Macro used for X.org development
-Version:	1.20.1
+Version:	1.20.2
 Release:	1
 Group:		Development/X11
 License:	MIT
