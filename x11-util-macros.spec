@@ -9,6 +9,11 @@ Source0:	http://xorg.freedesktop.org/releases/individual/util/util-macros-%{vers
 Source1:	x11-util-macros.rpmlintrc
 BuildArch:	noarch
 
+BuildRequires:	autoconf
+BuildRequires:	automake
+BuildRequires:	libtool-base
+BuildRequires:	slibtool
+BuildRequires:	make
 %description
 Macros used for X.org development.
 
